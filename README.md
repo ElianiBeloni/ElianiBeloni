@@ -26,7 +26,6 @@ Matemática, no Rio de Janeiro. Gosto de problemas em que a matemática decide o
 
 | Projeto | O que é | Minha parte |
 |---|---|---|
-| [DataQuest2026](https://github.com/ma-melo/DataQuest2026) | ASA DataQuest 2026: transição demográfica nos dados de população da ONU (WPP 2024), com clusterização, testes estatísticos e análise de sobrevida | Estrutura inicial do projeto, carregamento dos dados e análise exploratória |
 | [forest-fire](https://github.com/ElianiBeloni/forest-fire) | Simulação de incêndios florestais baseada em agentes (Mesa), com biomas brasileiros, vento, chuva e bombeiros | Representação visual: imagens das árvores por bioma e tamanho, agente de solo e cores |
 | [grupo-surpresa](https://github.com/PR-Alberti/grupo-surpresa) | Tradução para o português de capítulos do Visualization Curriculum (Altair), da Universidade de Washington | Tradução, revisão e união das seções |
 
