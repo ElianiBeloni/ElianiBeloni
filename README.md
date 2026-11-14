@@ -22,6 +22,14 @@ Matemática, no Rio de Janeiro. Gosto de problemas em que a matemática decide o
 | [modelos-estatisticos](https://github.com/ElianiBeloni/modelos-estatisticos) | Regressão linear múltipla em R e Quarto: associação entre glicemia em jejum e IMC | [relatório](https://github.com/ElianiBeloni/modelos-estatisticos/blob/main/av1-glicemia-imc/trabalho.pdf) |
 | [simulador-ponto-medio](https://github.com/ElianiBeloni/simulador-ponto-medio) | Algoritmo do ponto médio para rasterizar circunferências, executado um passo por vez | [abrir](https://elianibeloni.github.io/simulador-ponto-medio/) |
 
+## Trabalhos em grupo
+
+| Projeto | O que é | Minha parte |
+|---|---|---|
+| [DataQuest2026](https://github.com/ma-melo/DataQuest2026) | ASA DataQuest 2026: transição demográfica nos dados de população da ONU (WPP 2024), com clusterização, testes estatísticos e análise de sobrevida | Estrutura inicial do projeto, carregamento dos dados e análise exploratória |
+| [forest-fire](https://github.com/ElianiBeloni/forest-fire) | Simulação de incêndios florestais baseada em agentes (Mesa), com biomas brasileiros, vento, chuva e bombeiros | Representação visual: imagens das árvores por bioma e tamanho, agente de solo e cores |
+| [grupo-surpresa](https://github.com/PR-Alberti/grupo-surpresa) | Tradução para o português de capítulos do Visualization Curriculum (Altair), da Universidade de Washington | Tradução, revisão e união das seções |
+
 ## Ferramentas
 
 Python (PyTorch, Pandas, NumPy) · R (tidyverse, Quarto) · SQL · JavaScript e HTML5 Canvas · LaTeX · Git
