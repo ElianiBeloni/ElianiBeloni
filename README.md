@@ -4,9 +4,11 @@ Bacharel em Matemática pela UNESP e graduanda em Matemática da Tecnologia e In
 
 Gosto de problemas em que a matemática decide o resultado: modelagem estatística, aprendizado de máquina e visualização de ideias matemáticas.
 
-## Pesquisa
+## Hoje
 
-- **Iniciação científica no Observatório Nacional** (desde 09/2025): deep learning aplicado à Inversão da Forma de Onda Completa (FWI), com foco em aproximações da Hessiana.
+- **Estágio na MAG**, na área de Tecnologia (desde 09/2026).
+- **Iniciação científica no Observatório Nacional** (desde 09/2025): deep learning aplicado à Inversão da Forma de Onda Completa (FWI), com orientação de Bruno dos Santos. Apresentei o trabalho "Aproximação da Hessiana com Redes Neurais na Inversão do Campo de Onda Acústico" na JICON 2026.
+- **Projeto Axioma**, extensão do IMPA Tech: dou aulas de matemática aos sábados para alunos do 9º ano ao 3º ano do ensino médio e faço parte do setor de acompanhamento dos alunos.
 
 ## Projetos
 
