@@ -1,8 +1,12 @@
 # Eliani Beloni
 
-Bacharel em Matemática pela UNESP e graduanda em Matemática da Tecnologia e Inovação no IMPA Tech, com ênfase em Ciência de Dados. Moro no Rio de Janeiro.
+Matemática, no Rio de Janeiro. Gosto de problemas em que a matemática decide o resultado: modelagem estatística, aprendizado de máquina e visualização de ideias matemáticas.
 
-Gosto de problemas em que a matemática decide o resultado: modelagem estatística, aprendizado de máquina e visualização de ideias matemáticas.
+## Formação
+
+- Bacharelado em Matemática da Tecnologia e Inovação, ênfase em Ciência de Dados — IMPA Tech (em andamento)
+- Especialização em Processos Didático-Pedagógicos para EaD — UNIVESP (2024)
+- Bacharelado em Matemática — UNESP (2019)
 
 ## Hoje
 
