@@ -4,7 +4,7 @@ Matemática, no Rio de Janeiro. Gosto de problemas em que a matemática decide o
 
 ## Formação
 
-- Bacharelado em Matemática da Tecnologia e Inovação, ênfase em Ciência de Dados — IMPA Tech (em andamento)
+- Bacharelado em Matemática da Tecnologia e Inovação, ênfase em Inteligência Artificial e Ciência de Dados — IMPA Tech (em andamento)
 - Especialização em Processos Didático-Pedagógicos para EaD — UNIVESP (2024)
 - Bacharelado em Matemática — UNESP (2019)
 
